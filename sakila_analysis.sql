@@ -1,6 +1,6 @@
 USE sakila;
 
--- Last name of all actors
+-- First and last name of all actors
 SELECT first_name, last_name
 FROM actor;
 
